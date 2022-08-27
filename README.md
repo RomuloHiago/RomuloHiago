@@ -1,5 +1,5 @@
 ### Hi there :sunglasses:
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Romulo+Hiago+Domingues+Santos)](https://github.com/RomuloHiago)
 <h3>:computer:Programador Front-End Web Developer</h3>
 <h4> Um Pouco Sobre Mim:</h4>
 <p>- Romulo Hiago Hiago Domingues Santos</p>
