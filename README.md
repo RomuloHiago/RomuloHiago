@@ -1,8 +1,10 @@
 ### Hi there :sunglasses:
+
+<h1>:computer:Desenvolvedor Front-End </h1>
+<h4> Um Pouco Sobre Mim:</h4><br>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%FF6F9C&lines=Romulo+Hiago+Domingues+Santos)](https://github.com/RomuloHiago)
-<h3>:computer:Programador Front-End Web Developer</h3>
-<h4> Um Pouco Sobre Mim:</h4>
-<p>- Romulo Hiago Hiago Domingues Santos</p>
+
 <p>:sunglasses: 22 anos </p>
 <p>:computer: Cursando Analise e Desenvolvimento de Sistemas _ CruzeiroDoSul</p>
 
