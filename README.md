@@ -49,7 +49,7 @@ These are some of the technologies and tools that I have experience in my daily 
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|  ![Romulo stats](https://github-readme-stats.vercel.app/api?username=RomuloHiago&show_icons=true&theme=radical) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloHiago)](https://github.com/anuraghazra/github-readme-stats) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=RomuloHiago&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloHiago&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
  
 
