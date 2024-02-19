@@ -19,7 +19,7 @@ Full Stack Developer
 - 🚀 Student at Devclub, Cruzeiro do Sul, Rocketseat and Udemy.
 - 📫 My email: romulo1099@gmail.com
 
-### 📈 Goals for 2023:
+### 📈 Goals for 2024:
 
 - 📚 Continue seeking more knowledge and experiences with people and study materials.
 
