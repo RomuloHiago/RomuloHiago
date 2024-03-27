@@ -51,12 +51,7 @@ These are some of the technologies and tools that I have experience in my daily 
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=RomuloHiago&show_icons=true&hide_border=true&count_private=true&theme=jolly) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RomuloHiago&langs_count=10&count_private=true&hide_border=true&theme=jolly&layout=compact) |
 
- <a href="https://github.com/gGtEriKk">
- <img src="https://github-readme-stats.vercel.app/api?username=RomuloHiago&show_icons=true&theme=dark&line_height=27&icon_color=FF0000&title_color=FF0000&text_color=FFFFFF" alt="**Romulo Hiago's** github stats"/>
-</a>
-
-
-  
+ 
 
 
 💬 Want to get in touch?
